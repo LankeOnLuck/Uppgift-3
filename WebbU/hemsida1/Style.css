@@ -1,0 +1,15 @@
+/* Author: Lucas Knipehall
+	contact: 
+	Description: Basic CSS
+*/
+/* Solving boxmodel hack*/
+
+
+body{
+	background-color: #1f8dad;
+	width:100%;
+}
+#Container{
+	border: 1px solid #299610;
+}
+<body>
