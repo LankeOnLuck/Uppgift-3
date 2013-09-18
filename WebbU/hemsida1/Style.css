@@ -9,7 +9,12 @@ body{
 	background-color: #1f8dad;
 	width:100%;
 }
+
+#NavigationMainMenu{
+	border: 2px solid #000000;
+}
+
 #Container{
-	border: 1px solid #299610;
+	border: 1px solid #123dad;
 }
 <body>
